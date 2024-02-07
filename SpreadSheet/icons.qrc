@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/spreadSheet.png</file>
+        <file>icons/newFile.png</file>
+        <file>icons/openFile.png</file>
+        <file>icons/saveFile.png</file>
+        <file>icons/copyIcon.jpg</file>
+        <file>icons/cutIcon.png</file>
+        <file>icons/deleteIcon.png</file>
+        <file>icons/exitIcon.jpg</file>
+        <file>icons/findIcon.jpg</file>
+        <file>icons/gotocellIcon.jpg</file>
+        <file>icons/pasteIcon.jpg</file>
+        <file>icons/PixmapforMain.jpg</file>
+    </qresource>
+</RCC>

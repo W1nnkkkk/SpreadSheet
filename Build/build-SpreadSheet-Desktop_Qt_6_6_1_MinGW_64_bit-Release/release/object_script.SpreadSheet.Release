@@ -1,0 +1,13 @@
+release/cell.o
+release/findd.o
+release/gotocell.o
+release/main.o
+release/mainwindow.o
+release/sortDialog.o
+release/spreadsheet.o
+release/qrc_icons.o
+release/moc_findd.o
+release/moc_gotocell.o
+release/moc_mainwindow.o
+release/moc_sortDialog.o
+release/moc_spreadsheet.o
